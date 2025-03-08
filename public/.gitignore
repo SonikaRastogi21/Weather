@@ -1,16 +1,5 @@
-# Ignore all images inside public/img
-public/img/
-
-# Ignore environment files
-.env
-
 # Ignore dependencies (if using Node.js)
 node_modules/
 
-# Ignore system files
-.DS_Store
-Thumbs.db
 
-# Ignore compiled files
-*.log
-*.cache
+
